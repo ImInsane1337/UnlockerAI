@@ -1,6 +1,6 @@
 {
-  "version": "v1.0",
-  "versionCode": 100,
-  "zipUrl": "https://github.com/ImInsane1337/UnlockerAI/releases/download/1.0/UnlockerAI1.0.zip",
+  "version": "1.1",
+  "versionCode": 110,
+  "zipUrl": "https://github.com/ImInsane1337/UnlockerAI/releases/download/1.1/UnlockerAI1.1.zip",
   "changelog": "https://raw.githubusercontent.com/ImInsane1337/UnlockerAI/refs/heads/main/changelogs.md"
 }
